@@ -1,0 +1,3 @@
+maven project with 2 sub modules as core and service 
+
+service contant a the code of sorting algorithms and it can bn execute by core's jar file
